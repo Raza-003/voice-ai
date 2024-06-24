@@ -1,4 +1,5 @@
 import 'package:voice_ai/global/colors.dart';
+import 'package:voice_ai/pages/auth/Login_page.dart';
 import 'package:voice_ai/pages/bottom-pages/Firstpage.dart';
 import 'package:voice_ai/pages/bottom-pages/Fourthpage.dart';
 import 'package:voice_ai/pages/bottom-pages/Secondpage.dart';
@@ -18,8 +19,8 @@ class _HomeBottomBarPageState extends State<HomeBottomBarPage> {
   List barClass = [
     FirstPage(),
     Secondpage(),
-    // Demopage(),
-    Thirdpage(),
+    LoginPage(),
+    // Thirdpage(),
     Fourthpage(),
   ];
 
