@@ -42,17 +42,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyBr3e-PBE01ZaNKQB6L6bAyc9ZzTQZesiA',
-    appId: '1:962883606461:web:4b1a0fb1ad90c3805964d4',
+    appId: '1:962883606461:web:86c41f62ecf73fb45964d4',
     messagingSenderId: '962883606461',
     projectId: 'chatting-362f3',
     authDomain: 'chatting-362f3.firebaseapp.com',
     storageBucket: 'chatting-362f3.appspot.com',
-    measurementId: 'G-1YZ02W4QV5',
+    measurementId: 'G-57WKQM78P1',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyArTZlhRTbjji_umN4xMO-LiSEfIITDjPM',
-    appId: '1:962883606461:android:1e5e69f66c74ac965964d4',
+    appId: '1:962883606461:android:ddbc349504c918ce5964d4',
     messagingSenderId: '962883606461',
     projectId: 'chatting-362f3',
     storageBucket: 'chatting-362f3.appspot.com',
@@ -60,29 +60,29 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAXbeQEvo5DWWVnz5Ozhi8kLClLWZY8XBg',
-    appId: '1:962883606461:ios:d87055e6870fa0485964d4',
+    appId: '1:962883606461:ios:0629d687412a5e8a5964d4',
     messagingSenderId: '962883606461',
     projectId: 'chatting-362f3',
     storageBucket: 'chatting-362f3.appspot.com',
-    iosBundleId: 'com.voiceAiSystem',
+    iosBundleId: 'com.voiceAi',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyAXbeQEvo5DWWVnz5Ozhi8kLClLWZY8XBg',
-    appId: '1:962883606461:ios:d87055e6870fa0485964d4',
+    appId: '1:962883606461:ios:0629d687412a5e8a5964d4',
     messagingSenderId: '962883606461',
     projectId: 'chatting-362f3',
     storageBucket: 'chatting-362f3.appspot.com',
-    iosBundleId: 'com.voiceAiSystem',
+    iosBundleId: 'com.voiceAi',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyBr3e-PBE01ZaNKQB6L6bAyc9ZzTQZesiA',
-    appId: '1:962883606461:web:1a44734d985da0a45964d4',
+    appId: '1:962883606461:web:c7a64353347cb9b15964d4',
     messagingSenderId: '962883606461',
     projectId: 'chatting-362f3',
     authDomain: 'chatting-362f3.firebaseapp.com',
     storageBucket: 'chatting-362f3.appspot.com',
-    measurementId: 'G-G4FMJJVZJT',
+    measurementId: 'G-5KBNB1VHRF',
   );
 }

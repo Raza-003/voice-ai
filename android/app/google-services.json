@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "962883606461",
+    "project_id": "chatting-362f3",
+    "storage_bucket": "chatting-362f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962883606461:android:ddbc349504c918ce5964d4",
+        "android_client_info": {
+          "package_name": "com.voiceAi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962883606461-j4rohsc3h3rvficijg7qhgjm0dnui8lt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voiceAi",
+            "certificate_hash": "55a80529dca97f1eee6812f6f71699795b4ed25c"
+          }
+        },
+        {
+          "client_id": "962883606461-16ss4l8v1obtd4ms4dc7hkpan54mq0op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArTZlhRTbjji_umN4xMO-LiSEfIITDjPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962883606461-16ss4l8v1obtd4ms4dc7hkpan54mq0op.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962883606461-ij9ij78p6kqctkmv3k08fe29mmg7ntbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voiceAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
