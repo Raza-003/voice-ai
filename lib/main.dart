@@ -27,10 +27,10 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.grey,
       ),
-      // home: const SplashScreen(),
+      home: const SplashScreen(),
       // home: const HomeBottomBarPage(),
       // home: const Demopage(),
-      home: const LoginPage(),
+      // home: const LoginPage(),
     );
   }
 }
